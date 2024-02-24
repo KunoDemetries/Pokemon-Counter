@@ -1,0 +1,24 @@
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon Odds Counter.csproj.AssemblyReference.cache
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon_Odds_Counter.PForm.resources
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon_Odds_Counter.testing.resources
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon Odds Counter.csproj.GenerateResource.cache
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon Odds Counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon Odds Counter.AssemblyInfoInputs.cache
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon Odds Counter.AssemblyInfo.cs
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon Odds Counter.csproj.CoreCompileInputs.cache
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\bin\Debug\net6.0-windows\Pokemon Odds Counter.exe
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\bin\Debug\net6.0-windows\Pokemon Odds Counter.deps.json
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\bin\Debug\net6.0-windows\Pokemon Odds Counter.runtimeconfig.json
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\bin\Debug\net6.0-windows\Pokemon Odds Counter.dll
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\bin\Debug\net6.0-windows\Pokemon Odds Counter.pdb
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\bin\Debug\net6.0-windows\HotkeyListener.dll
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon Odds Counter.csproj.CopyComplete
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon Odds Counter.dll
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\refint\Pokemon Odds Counter.dll
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon Odds Counter.pdb
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\Pokemon Odds Counter.genruntimeconfig.cache
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\obj\Debug\net6.0-windows\ref\Pokemon Odds Counter.dll
+D:\File Management\Visual Studio files\Pokemon Odds Counter\Pokemon Odds Counter\bin\Debug\net6.0-windows\Pokemon Odds Counter.dll.config
